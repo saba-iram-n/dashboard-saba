@@ -321,14 +321,13 @@ const Ecommerce = () => {
                   text="Read More"
                   borderRadius="10px"
                 />
-              </div> 
-            </div> 
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   );
 };
-
 
 export default Ecommerce;
